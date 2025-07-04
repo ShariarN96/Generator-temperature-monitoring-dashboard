@@ -21,7 +21,7 @@ This structure allows users to simulate and explore temperature behavior under v
 ## 📊 Dashboard Demo
 
 Below is a short demo of the dashboard in action:  
-👉 *[Insert video demo link or animated GIF here]*
+👉 *[https://shanenn.carrd.co/assets/videos/video01.mp4?v=db187847]*
 
 Users can:
 - Adjust model parameters dynamically
