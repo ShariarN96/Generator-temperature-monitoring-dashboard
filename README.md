@@ -33,4 +33,4 @@ Users can:
 ## 💻 Python Code
 
 The full source code is available on GitHub:  
-🔗 [View the code](https://github.com/ShariarN96/Generator-temperature-monitoring-dashboard)
+🔗 [View the code](https://github.com/ShariarN96/Generator-temperature-monitoring-dashboard/blob/main/Generator%20Dashboard.ipynb)
