@@ -1,8 +1,7 @@
 # 🔥 Generator Temperature Monitoring Dashboard
 
 An interactive dashboard built in **Python** using **Dash** and **Plotly** to monitor and forecast generator temperatures. This tool provides an intuitive interface for engineers and analysts to explore temperature trends, adjust model parameters, and predict potential overheating or failure scenarios.  
-
-📁 [See this project on my Portfolio](https://shanenn.carrd.co/#section09)
+📁 [See this project on my Portfolio](https://shanenn.carrd.co/#temperature-monitoring-dashboard)
 
 ---
 
