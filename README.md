@@ -21,7 +21,7 @@ This structure allows users to simulate and explore temperature behavior under v
 ## 📊 Dashboard Demo
 
 Below is a short demo of the dashboard in action:  
-👉 *[https://shanenn.carrd.co/assets/videos/video01.mp4?v=db187847]*
+👉 *[Demo](https://shanenn.carrd.co/assets/videos/video01.mp4?v=db187847)*
 
 Users can:
 - Adjust model parameters dynamically
@@ -33,5 +33,5 @@ Users can:
 ## 💻 Python Code
 
 The full source code is available on GitHub:  
-🔗 [https://github.com/ShariarN96/Generator-temperature-monitoring-dashboard/blob/main/Generator%20Dashboard.ipynb]
+🔗 [Code](https://github.com/ShariarN96/Generator-temperature-monitoring-dashboard/blob/main/Generator%20Dashboard.ipynb)
 
