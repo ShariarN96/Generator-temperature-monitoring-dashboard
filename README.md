@@ -33,22 +33,5 @@ Users can:
 ## 💻 Python Code
 
 The full source code is available on GitHub:  
-🔗 [View the Code on GitHub](https://github.com/ShariarN96/Generator-temperature-monitoring-dashboard)
+🔗 [https://github.com/ShariarN96/Generator-temperature-monitoring-dashboard/blob/main/Generator%20Dashboard.ipynb]
 
-Here's a snippet showing part of the core Python logic:
-
-> *(Insert a code snippet image or use Markdown code blocks if preferred)*
-
-```python
-# Sample code preview
-import pandas as pd
-from sklearn.linear_model import LinearRegression
-
-# Load and prepare data
-df = pd.read_csv("generator_data.csv")
-X = df[["ambient_temp", "current"]]
-y = df["generator_temp"]
-
-# Train model
-model = LinearRegression()
-model.fit(X, y)
