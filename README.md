@@ -1,6 +1,8 @@
 # 🔥 Generator Temperature Monitoring Dashboard
 
-An interactive dashboard built in **Python** using **Dash** and **Plotly** to monitor and forecast generator temperatures. This tool provides an intuitive interface for engineers and analysts to explore temperature trends, adjust model parameters, and predict potential overheating or failure scenarios. See this project on my [Portfolio](https://shanenn.carrd.co/#section09)
+An interactive dashboard built in **Python** using **Dash** and **Plotly** to monitor and forecast generator temperatures. This tool provides an intuitive interface for engineers and analysts to explore temperature trends, adjust model parameters, and predict potential overheating or failure scenarios.  
+
+📁 [See this project on my Portfolio](https://shanenn.carrd.co/#section09)
 
 ---
 
@@ -8,20 +10,18 @@ An interactive dashboard built in **Python** using **Dash** and **Plotly** to mo
 
 To enable predictive insights, we first identified the most influential variables affecting generator temperature. Based on correlation analysis and domain understanding, we selected **ambient temperature** and **electrical current** as the two key input features.
 
-The dashboard was then designed with:
+The dashboard includes:
+- 🎛️ Custom controls to adjust parameters
+- 🗓️ A date range picker for filtered time-series analysis
+- 📈 Real-time visual feedback through interactive plots
 
-- Custom controls to adjust these parameters
-- A date range picker for filtered time-series analysis
-- Real-time visual feedback through interactive plots
-
-This structure allows users to simulate and explore temperature behavior under varying operational conditions.
+This allows users to simulate and explore temperature behavior under varying operational conditions.
 
 ---
 
 ## 📊 Dashboard Demo
 
-Below is a short demo of the dashboard in action:  
-👉 *[Demo](https://shanenn.carrd.co/assets/videos/video01.mp4?v=db187847)*
+🎬 [Click here to view the demo video](https://shanenn.carrd.co/assets/videos/video01.mp4?v=db187847)
 
 Users can:
 - Adjust model parameters dynamically
@@ -33,5 +33,4 @@ Users can:
 ## 💻 Python Code
 
 The full source code is available on GitHub:  
-🔗 [Code](https://github.com/ShariarN96/Generator-temperature-monitoring-dashboard/blob/main/Generator%20Dashboard.ipynb)
-
+🔗 [View the code](https://github.com/ShariarN96/Generator-temperature-monitoring-dashboard)
